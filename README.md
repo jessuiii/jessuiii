@@ -46,13 +46,6 @@ I build full-stack web apps, AI-assisted workflows, and ML-backed tools that tur
 - Exploring AI features that make products more useful without making the UI noisy.
 - Improving project documentation so every repo is easier to understand, run, and review.
 
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jessuiii&show_icons=true&theme=default&hide_border=true" alt="Jesu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessuiii&layout=compact&theme=default&hide_border=true" alt="Jesu's top languages" />
-</p>
-
 ## Let's Connect
 
 I am always interested in projects around full-stack development, AI-assisted products, ML-powered workflows, automation, and practical software that solves everyday problems.
